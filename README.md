@@ -1,8 +1,8 @@
-<h1 align="center">🎙️ La Terminal Parlante 🎙️ </h1>
+<h1 align="center">  🪄 Construcción de objetos 🪄 </h1>
 
 Este proyecto fue desarrollado como parte del aprendizaje de **JavaScript** aplicado en entorno de **Node.js**, utilizando **npm** para la gestión de dependencias, comandos de **terminal** y colaboración mediante **GitHub**. 
 
-El **objetivo** fue crear un programa que mostrara mensajes estilizados en la consola usando la librería **chalk**, mientras practicábamos el flujo de trabajo colaborativo con ramas, commits y pull requests.
+El **objetivo** fue empezar a construír objetos utilizando diversas funciones.
 
 <div align="center">
 
